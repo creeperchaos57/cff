@@ -1,0 +1,41 @@
+#items
+item.box_of_fries.name=Box of Fries
+item.cardboard.name=Cardboard
+item.cheese.name=Cheese
+item.fry.name=French Fry
+item.box.name=Empty Cardboard Box
+item.patty.name=Patty
+item.burger.name=Burger
+item.raw_patty.name=Raw Patty
+item.bacon.name=Bacon
+item.tomato.name=Tomato
+item.lettuce.name=Lettuce
+item.blt.name=BLT
+item.buns.name=Bun
+item.tomato_seed.name=Tomato Seeds
+item.bread_slice.name=Slice of Bread
+item.bacon_helmet.name=Bacon Helmet
+item.bacon_chestplate.name=Bacon Chestplate
+item.bacon_leggings.name=Bacon Leggings
+item.bacon_boots.name=Bacon Boots
+item.energy_drink.name=Energy Drink
+item.aluminum_ingot.name=Aluminum Ingot
+item.can.name=Can
+item.orange.name=Orange
+
+#tools
+item.bacon_sword.name=Bacon Sword
+item.bacon_shovel.name=Bacon Shovel
+item.bacon_pickaxe.name=Bacon Pickaxe
+item.bacon_axe.name=Bacon Axe
+item.bacon_hoe.name=Bacon Hoe
+item.knife.name=Knife
+
+#blocks
+tile.grinder.name=Grinder
+tile.fryer.name=Deep Fryer
+tile.tomato_plant.name=Tomato Plant
+tile.aluminum_ore.name=Aluminum Ore
+
+#creativetab
+itemGroup.tabCff=Creeper's Fast Food

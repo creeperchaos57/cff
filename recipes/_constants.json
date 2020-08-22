@@ -1,0 +1,10 @@
+[
+
+    {
+        "name": "KNIFE",
+        "ingredient": {
+            "item": "cff:knife",
+            "data": 0
+        }
+    }
+]

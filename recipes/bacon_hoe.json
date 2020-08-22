@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        " /",
+        " /"
+    ],
+    "key": {
+        "#": {
+            "item": "cff:bacon"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "cff:bacon_hoe",
+        "count": 1
+    }
+}

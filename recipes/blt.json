@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "CJT",
+        " # "
+    ],
+    "key": {
+        "#": {
+            "item": "cff:bread_slice"
+        },
+        "C": {
+            "item": "cff:tomato"
+        },
+        "J": {
+            "item": "cff:lettuce"
+        },
+        "T": {
+            "item": "cff:bacon"
+        }
+    },
+    "result": {
+        "item": "cff:blt",
+        "count": 1
+    }
+}

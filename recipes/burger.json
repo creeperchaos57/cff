@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cff:tomato"
+        },
+        {
+            "item": "cff:buns"
+        },
+        {
+            "item": "cff:cheese"
+        },
+        {
+            "item": "cff:patty"
+        },
+        {
+            "item": "cff:lettuce"
+        },
+        {
+            "item": "cff:buns"
+        }
+    ],
+    "result": {
+        "item": "cff:burger",
+        "count": 1
+    }
+}

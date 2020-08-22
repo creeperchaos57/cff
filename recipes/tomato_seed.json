@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cff:tomato"
+        }
+    ],
+    "result": {
+        "item": "cff:tomato_seed",
+        "count": 4
+    }
+}

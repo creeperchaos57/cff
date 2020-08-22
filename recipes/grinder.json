@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "ICI",
+        "III"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_pickaxe"
+        },
+        "I": {
+            "item": "minecraft:iron_block"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        }
+    },
+    "result": {
+        "item": "cff:grinder",
+        "count": 1
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "cff:fry"
+        },
+        "C": {
+            "item": "cff:box"
+        }
+    },
+    "result": {
+        "item": "cff:box_of_fries",
+        "count": 1
+    }
+}
